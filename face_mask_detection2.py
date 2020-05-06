@@ -5,7 +5,6 @@ Created on Fri May  1 14:17:21 2020
 @author: ankit
 """
 
-
 import keras
 from keras.models import Sequential
 from keras.layers import Activation
